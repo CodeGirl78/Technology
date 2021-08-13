@@ -1,0 +1,14 @@
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.exe
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.deps.json
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.json
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.dev.json
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.dll
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csproj.AssemblyReference.cache
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfoInputs.cache
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfo.cs
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csproj.CoreCompileInputs.cache
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.dll
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\msurm\csharp-practice\Class6\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.genruntimeconfig.cache
