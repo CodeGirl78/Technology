@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msurm\\csharp-practice\\Class6\\Technology\\Technology\\Technology.csproj": {}
+    "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msurm\\csharp-practice\\Class6\\Technology\\Technology\\Technology.csproj": {
+    "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msurm\\csharp-practice\\Class6\\Technology\\Technology\\Technology.csproj",
+        "projectUniqueName": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj",
         "projectName": "Technology",
-        "projectPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\Technology\\Technology\\Technology.csproj",
+        "projectPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj",
         "packagesPath": "C:\\Users\\msurm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\Technology\\Technology\\obj\\",
+        "outputPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msurm\\AppData\\Roaming\\NuGet\\NuGet.Config",

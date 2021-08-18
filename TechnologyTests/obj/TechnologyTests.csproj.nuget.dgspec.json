@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\TechnologyTests\\TechnologyTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\TechnologyTests\\TechnologyTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\TechnologyTests\\TechnologyTests.csproj",
+        "projectName": "TechnologyTests",
+        "projectPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\TechnologyTests\\TechnologyTests.csproj",
+        "packagesPath": "C:\\Users\\msurm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\TechnologyTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\msurm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj": {
+                "projectPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj",
+        "projectName": "Technology",
+        "projectPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\Technology.csproj",
+        "packagesPath": "C:\\Users\\msurm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msurm\\csharp-practice\\Class6\\TechnologyExercises\\Technology\\Technology\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\msurm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
